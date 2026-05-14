@@ -27,7 +27,7 @@ Repositori ini berisi proyek Android Studio untuk memenuhi tugas mata kuliah di 
 ## 👤 Identitas Mahasiswa
 * **Nama:** Rayhand N. U. Wumu
 * **NIM:** 24024010
-* **Kelas:** 3TI1
+* **Kelas:** 4TI1
 * **Program Studi:** Teknik Informatika
 
 ---
