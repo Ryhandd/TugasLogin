@@ -31,4 +31,4 @@ Repositori ini berisi proyek Android Studio untuk memenuhi tugas mata kuliah di 
 * **Program Studi:** Teknik Informatika
 
 ---
-*Tugas ini disusun untuk keperluan akademik Semester 4.*
+*Dokumentasi ini dibuat untuk keperluan akademik - 2026*
